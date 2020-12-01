@@ -4,11 +4,11 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-### I am Ajay Singh Khalsa
-- An ML & Open Source enthusiast.
-- A Computer Engineering Undergraduate Student. 
-- Currently working on some of my cool side projects based on Web Development and Machine Learning.
-- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
+I'm a simple boy who is passionate about writing code, solving problems, automating stuff, and building software.
+
+- 🔭 I’m currently doing a volunter year in Germany.
+- 📚 I’m learning frontend web development using NodeJS, ExpressJS and MongoDB.
+- 🌱 I’m looking for a software development training. I love to learn and contribute in any and every possible way.
 
 ⭐️ From [AjayKhalsa](https://github.com/beklife)
 
