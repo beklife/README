@@ -1,9 +1,16 @@
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+### Hello world, I'm Asilbek <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
-## I'm a Husband, Father, Developer, and Teacher!!
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+
+### I am Ajay Singh Khalsa
+- An ML & Open Source enthusiast.
+- A Computer Engineering Undergraduate Student. 
+- Currently working on some of my cool side projects based on Web Development and Machine Learning.
+- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
+
+⭐️ From [AjayKhalsa](https://github.com/beklife)
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
