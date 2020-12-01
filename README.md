@@ -9,14 +9,10 @@ I'm a simple boy who is passionate about writing code, solving problems, automat
 - 🔭 I’m currently doing a volunter year in Germany.
 - 📚 I’m learning frontend web development using NodeJS, ExpressJS and MongoDB.
 - 🌱 I’m looking for a software development training. I love to learn and contribute in any and every possible way.
+- 🥅 2021 Goals: Contribute more to Open Source projects.
+- ⚡ Fun fact: I love to play guitar and ping pong.
 
-⭐️ From [AjayKhalsa](https://github.com/beklife)
-
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+⭐️ From [Asilbek](https://github.com/beklife)
 
 ### Spotify Playing 🎧
 
