@@ -52,8 +52,7 @@ I'm a simple boy who is passionate about writing code, solving problems, automat
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
+
   
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#14](https://github.com/codeSTACKr/codeSTACKr/pull/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
@@ -65,12 +64,7 @@ I'm a simple boy who is passionate about writing code, solving problems, automat
 
 </details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
