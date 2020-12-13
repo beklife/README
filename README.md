@@ -7,7 +7,7 @@
 I'm a simple boy who is passionate about writing code, solving problems, automating stuff, and building software.
 
 - 🔭 I’m currently doing a volunter year in Germany.
-- 📚 I’m learning frontend web development using NodeJS, ExpressJS and MongoDB.
+- 📚 I’m learning frontend web development using HTML, CSS and JavaScript.
 - 🌱 I’m looking for a software development training. I love to learn and contribute in any and every possible way.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to play guitar and ping pong.
