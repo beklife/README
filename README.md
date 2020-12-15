@@ -9,7 +9,7 @@ I'm a simple boy who is passionate about writing code, solving problems, automat
 - 🔭 I’m currently doing a volunter year in Germany.
 - 📚 I’m learning frontend web development using HTML, CSS and JavaScript.
 - 🌱 I’m looking for a software development training. I love to learn and contribute in any and every possible way.
-- 🥅 2021 Goals: Contribute more to Open Source projects.
+- 🥅 Goal: To become full stack developer.
 - ⚡ Fun fact: I love to play guitar and ping pong.
 
 ⭐️ From [Asilbek](https://github.com/beklife)
@@ -20,8 +20,8 @@ I'm a simple boy who is passionate about writing code, solving problems, automat
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="www.beklife.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="www.linkedin.com/in/beklife" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
