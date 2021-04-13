@@ -8,7 +8,7 @@ I'm a simple boy who is passionate about writing code, solving problems, automat
 
 - 🔭 I’m currently doing a volunter year in Germany.
 - 📚 I’m learning Python.
-- 🌱 I’m looking for a software development training. I love to learn and contribute in any and every possible way.
+- 🌱 I’m looking for a software development training in Germany. I love to learn and contribute in any and every possible way.
 - 🥅 Goal: Full stack developer.
 - ⚡ Fun fact: I love to play guitar and ping pong.
 
